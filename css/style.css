@@ -1,0 +1,19 @@
+a:hover{
+	text-decoration: none;
+}
+.active{
+	background-color: black;
+}
+.error_alert{
+	color:red;
+}
+.card-header{
+	margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+	.img-full-width-mobile{
+		width:100%;
+		height: auto;
+	}
+}
